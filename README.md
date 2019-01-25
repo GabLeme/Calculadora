@@ -1,0 +1,1 @@
+Calculadora criada utilizando REACT para fins educacionais.
