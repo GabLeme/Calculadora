@@ -28,3 +28,7 @@
     background-color: #fa8231;
     color: #FFF;
 }
+
+.button.operation.button:active{
+    background-color: #fa8231cc;
+}
